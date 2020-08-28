@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=CSY54&theme=nord&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CSY54&theme=nord&layout=compact&card_width=445)
+
 <!--
 **CSY54/CSY54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
