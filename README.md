@@ -5,19 +5,19 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CSY54&theme=nord&layout=compact&card_width=445)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-117616%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 33 Contributions in the Year 2021
+> 🏆 35 Contributions in the Year 2021
  > 
 > 📦 24.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 31 Public Repositories 
+> 📜 32 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
@@ -38,14 +38,14 @@
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Vue.js                   2 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   39.98% 
-Blade Template           1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   21.66% 
-Python                   48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.05% 
-Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.1% 
-PHP                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.44%
+Vue.js                   3 hrs 42 mins       ███████████░░░░░░░░░░░░░░   45.51% 
+Blade Template           1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.38% 
+Python                   48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.89% 
+Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.36% 
+PHP                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.65%
 
 🔥 Editors: 
-Vim                      7 hrs 18 mins       █████████████████████████   100.0%
+Vim                      8 hrs 9 mins        █████████████████████████   100.0%
 
 ```
 
@@ -62,7 +62,7 @@ Shell                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2021
+ Last Updated on 27/07/2021
 <!--END_SECTION:waka-->
 
 <!--
