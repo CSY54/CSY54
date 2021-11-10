@@ -5,7 +5,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CSY54&theme=nord&layout=compact&card_width=445)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-126017%20lines%20of%20code-blue)
 
@@ -38,10 +38,15 @@
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.0%
+Python                   55 mins             ███████████████░░░░░░░░░░   63.01% 
+C++                      32 mins             █████████░░░░░░░░░░░░░░░░   36.8% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17% 
+Roff                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
+Apache Config            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-Vim                      0 secs              █████████████████████████   100.0%
+Neovim                   1 hr 26 mins        ████████████████████████░   97.54% 
+Vim                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.46%
 
 ```
 
@@ -58,7 +63,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2021
+ Last Updated on 10/11/2021
 <!--END_SECTION:waka-->
 
 <!--
