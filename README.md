@@ -5,6 +5,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CSY54&theme=nord&layout=compact&card_width=445)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-885%20hrs%205%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-107%20Thousand%20lines%20of%20code-blue)
@@ -62,7 +64,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/01/2022 00:48:31 UTC
+ Last Updated on 31/01/2022 00:52:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
