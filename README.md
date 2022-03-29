@@ -5,8 +5,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CSY54&theme=nord&layout=compact&card_width=445)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-965%20hrs%2025%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-113%20Thousand%20lines%20of%20code-blue)
@@ -15,7 +13,7 @@
 
 > 🏆 17 Contributions in the Year 2022
  > 
-> 📦 26.4 kB Used in GitHub's Storage 
+> 📦 26.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,14 +38,14 @@
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   7 hrs 23 mins       █████████████░░░░░░░░░░░░   52.07% 
-Go                       2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.36% 
-C++                      2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.84% 
-Makefile                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.5% 
-Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.09%
+Python                   8 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   39.23% 
+Go                       3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.02% 
+Verilog                  2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.2% 
+C++                      2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.1% 
+JavaScript               2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.51%
 
 🔥 Editors: 
-Neovim                   14 hrs 12 mins      █████████████████████████   100.0%
+Neovim                   22 hrs 29 mins      █████████████████████████   100.0%
 
 ```
 
@@ -64,7 +62,7 @@ Vue                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/03/2022 01:09:42 UTC
+ Last Updated on 29/03/2022 01:07:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
