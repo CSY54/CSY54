@@ -5,9 +5,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CSY54&theme=nord&layout=compact&card_width=445)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C047%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-121%20Thousand%20lines%20of%20code-blue)
 
@@ -40,11 +40,11 @@
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   48 mins             █████████░░░░░░░░░░░░░░░░   37.35% 
-Go                       36 mins             ███████░░░░░░░░░░░░░░░░░░   28.17% 
-Other                    21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.24% 
-PHP                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
-Blade Template           7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.4%
+Verilog                  51 mins             █████████░░░░░░░░░░░░░░░░   39.22% 
+Go                       36 mins             ███████░░░░░░░░░░░░░░░░░░   28.08% 
+Python                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.8% 
+PHP                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.5% 
+Blade Template           7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.38%
 
 🔥 Editors: 
 Neovim                   2 hrs 11 mins       █████████████████████████   100.0%
@@ -64,7 +64,7 @@ Vue                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2022 01:35:48 UTC
+ Last Updated on 08/05/2022 01:10:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
