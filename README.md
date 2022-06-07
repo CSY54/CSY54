@@ -5,9 +5,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CSY54&theme=nord&layout=compact&card_width=445)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C109%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-121%20Thousand%20lines%20of%20code-blue)
 
@@ -15,7 +15,7 @@
 
 > 🏆 59 Contributions in the Year 2022
  > 
-> 📦 27.2 kB Used in GitHub's Storage 
+> 📦 27.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,15 +40,15 @@
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Verilog                  5 hrs 43 mins       ███████████░░░░░░░░░░░░░░   44.81% 
-Go                       4 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   31.87% 
-C++                      1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.99% 
-C                        38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.99% 
-Other                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66%
+Go                       4 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   32.75% 
+C++                      3 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   30.46% 
+Verilog                  3 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   26.19% 
+C                        38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.16% 
+Other                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.75%
 
 🔥 Editors: 
-Neovim                   12 hrs 36 mins      ████████████████████████░   98.69% 
-Vim                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31%
+Neovim                   12 hrs 10 mins      ████████████████████████░   98.65% 
+Vim                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35%
 
 ```
 
@@ -65,7 +65,7 @@ Vue                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2022 01:46:03 UTC
+ Last Updated on 07/06/2022 01:11:30 UTC
 <!--END_SECTION:waka-->
 
 <!--
