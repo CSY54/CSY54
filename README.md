@@ -5,9 +5,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CSY54&theme=nord&layout=compact&card_width=445)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C176%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-107%20Thousand%20lines%20of%20code-blue)
 
@@ -15,7 +15,7 @@
 
 > 🏆 59 Contributions in the Year 2022
  > 
-> 📦 21.0 kB Used in GitHub's Storage 
+> 📦 20.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,14 +40,14 @@
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   46 mins             ██████████░░░░░░░░░░░░░░░   39.66% 
-Markdown                 21 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.11% 
-Bash                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.12% 
-Text                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.78% 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.75%
+Python                   46 mins             ███████░░░░░░░░░░░░░░░░░░   31.41% 
+TypeScript               23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.1% 
+Markdown                 21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.35% 
+Bash                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.98% 
+Text                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71%
 
 🔥 Editors: 
-Neovim                   2 hrs 7 mins        █████████████████████████   100.0%
+Neovim                   2 hrs 37 mins       █████████████████████████   100.0%
 
 ```
 
@@ -64,7 +64,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2022 01:53:13 UTC
+ Last Updated on 14/07/2022 01:27:08 UTC
 <!--END_SECTION:waka-->
 
 <!--
