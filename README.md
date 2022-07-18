@@ -5,9 +5,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CSY54&theme=nord&layout=compact&card_width=445)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C184%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-107%20Thousand%20lines%20of%20code-blue)
 
@@ -40,14 +40,14 @@
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               4 hrs 53 mins       ██████████████░░░░░░░░░░░   58.92% 
-Vue.js                   1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   21.76% 
-JavaScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.1% 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.77% 
-PHP                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.63%
+TypeScript               4 hrs 53 mins       ██████████████░░░░░░░░░░░   57.3% 
+Vue.js                   1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   21.16% 
+JavaScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.93% 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.64% 
+PHP                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.53%
 
 🔥 Editors: 
-Neovim                   8 hrs 17 mins       █████████████████████████   100.0%
+Neovim                   8 hrs 31 mins       █████████████████████████   100.0%
 
 ```
 
@@ -64,7 +64,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2022 02:01:00 UTC
+ Last Updated on 18/07/2022 01:23:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
