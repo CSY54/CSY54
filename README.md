@@ -5,7 +5,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CSY54&theme=nord&layout=compact&card_width=445)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C191%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -64,7 +64,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2022 01:30:38 UTC
+ Last Updated on 24/07/2022 01:35:16 UTC
 <!--END_SECTION:waka-->
 
 <!--
