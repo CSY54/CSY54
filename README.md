@@ -5,31 +5,31 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CSY54&theme=nord&layout=compact&card_width=445)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C262%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C260%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-108%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 74 Contributions in the Year 2022
+> 🏆 76 Contributions in the Year 2022
  > 
-> 📦 21.8 kB Used in GitHub's Storage 
+> 📦 21.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
  > 
-> 🔑 10 Private Repositories  
+> 🔑 11 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.21% 
-🌆 Daytime    32 commits     ███████░░░░░░░░░░░░░░░░░░   30.19% 
-🌃 Evening    30 commits     ███████░░░░░░░░░░░░░░░░░░   28.3% 
-🌙 Night      30 commits     ███████░░░░░░░░░░░░░░░░░░   28.3%
+🌞 Morning    14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.08% 
+🌆 Daytime    32 commits     ███████░░░░░░░░░░░░░░░░░░   29.91% 
+🌃 Evening    31 commits     ███████░░░░░░░░░░░░░░░░░░   28.97% 
+🌙 Night      30 commits     ███████░░░░░░░░░░░░░░░░░░   28.04%
 
 ```
 
@@ -55,17 +55,17 @@ Vim                      24 mins             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             ███████░░░░░░░░░░░░░░░░░░   31.03% 
-JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14% 
-C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9%
+Python                   9 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
+JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   23.33% 
+C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
 ```
 
 
 
- Last Updated on 19/08/2022 01:58:51 UTC
+ Last Updated on 20/08/2022 01:23:21 UTC
 <!--END_SECTION:waka-->
 
 <!--
