@@ -90,37 +90,9 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C270%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112%20Thousand%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
-🌆 Daytime    35 commits     ███████░░░░░░░░░░░░░░░░░░   29.66% 
-🌃 Evening    39 commits     ████████░░░░░░░░░░░░░░░░░   33.05% 
-🌙 Night      30 commits     ██████░░░░░░░░░░░░░░░░░░░   25.42%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Svelte                   4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.36% 
-PHP                      4 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.83% 
-Python                   4 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.46% 
-TypeScript               3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.1% 
-Vue.js                   3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.6%
-
-🔥 Editors: 
-Neovim                   29 hrs 19 mins      █████████████████████████   100.0%
-
-```
 
 **I Mostly Code in Python** 
 
@@ -135,7 +107,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2022-08-21 01:50:52 UTC
+ Last Updated on 2022-08-22 01:24:59 UTC
 <!--END_SECTION:waka-->
 
 <!--
