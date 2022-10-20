@@ -88,7 +88,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CSY54&theme=nord&layout=compact&card_width=445)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C334%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C335%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -111,11 +111,12 @@
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   4 mins              ████████████████████████░   96.36% 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.64%
+Python                   42 mins             ████████████████████████░   97.83% 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
 
 🔥 Editors: 
-Neovim                   5 mins              █████████████████████████   100.0%
+Neovim                   43 mins             █████████████████████████   100.0%
 
 ```
 
@@ -132,7 +133,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2022-10-20 01:50:28 UTC
+ Last Updated on 2022-10-20 01:55:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
