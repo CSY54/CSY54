@@ -88,39 +88,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CSY54&theme=nord&layout=compact&card_width=445)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C346%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C346%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112%20Thousand%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-🌆 Daytime    47 commits     ███████░░░░░░░░░░░░░░░░░░   31.33% 
-🌃 Evening    58 commits     █████████░░░░░░░░░░░░░░░░   38.67% 
-🌙 Night      33 commits     █████░░░░░░░░░░░░░░░░░░░░   22.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-JavaScript               55 mins             █████████████████░░░░░░░░   67.87% 
-YAML                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.66% 
-INI                      11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.54% 
-Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
-
-🔥 Editors: 
-Neovim                   1 hr 22 mins        █████████████████████████   100.0%
-
-```
 
 **I Mostly Code in Python** 
 
@@ -135,7 +107,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2022-11-09 01:35:32 UTC
+ Last Updated on 2022-11-10 01:23:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
