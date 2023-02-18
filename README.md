@@ -15,11 +15,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CSY54&theme=nord&layout=compact&card_width=445)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C482%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C482%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-113%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-314%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -38,15 +38,15 @@
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               6 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   39.40 % 
-Vue.js                   2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.59 % 
-Python                   2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-HTML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-SCSS                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+TypeScript               3 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   35.91 % 
+Vue.js                   3 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   35.48 % 
+SCSS                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 🔥 Editors: 
-Neovim                   15 hrs 44 mins      █████████████████████████   99.68 % 
-Vim                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Neovim                   9 hrs 21 mins       ████████████████████████░   99.47 % 
+Vim                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 ```
 
@@ -63,7 +63,7 @@ Vue                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023-02-16 01:42:49 UTC
+ Last Updated on 2023-02-18 01:06:14 UTC
 <!--END_SECTION:waka-->
 
 <!--
