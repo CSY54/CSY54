@@ -24,7 +24,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
   update-readme:
-    name: Update Readme with Metrics
+    name: waka-waka-eh-eh
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
