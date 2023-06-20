@@ -15,9 +15,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CSY54&theme=nord&layout=compact&card_width=445)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C718%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C720%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-451.9%20thousand%20lines%20of%20code-blue)
 
@@ -37,14 +37,14 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      3 hrs 32 mins       ████████████████████░░░░░   80.13 % 
-Assembly                 30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Pawn                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+C++                      3 hrs 17 mins       ██████████████░░░░░░░░░░░   56.47 % 
+YAML                     49 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Assembly                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Lua                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 23 mins       █████████████████████████   100.00 % 
+Neovim                   5 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -60,7 +60,7 @@ Elixir                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2023-06-19 01:09:03 UTC
+ Last Updated on 2023-06-20 01:06:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
