@@ -10,9 +10,39 @@
 
 ### My Stats
 
-![](https://github-readme-stats.vercel.app/api?username=CSY54&theme=nord&show_icons=true)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=CSY54&show_icons=true&hide_border=true&hide_rank=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"
+    media="(prefers-color-scheme: dark)"
+    height="200"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=CSY54&show_icons=true&hide_border=true&hide_rank=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    height="200"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=CSY54&show_icons=true&hide_border=true&hide_rank=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"
+    height="200"
+  />
+</picture>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CSY54&theme=nord&layout=compact&card_width=445)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CSY54&layout=compact&hide_border=true&card_width=445&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"
+    media="(prefers-color-scheme: dark)"
+    height="200"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CSY54&layout=compact&hide_border=true&card_width=445&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    height="200"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSY54&layout=compact&hide_border=true&card_width=445&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"
+    height="200"
+  />
+</picture>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C735%20hrs%2053%20mins-blue)
