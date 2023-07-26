@@ -10,15 +10,11 @@
 
 ### My Stats
 
+<span>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CSY54&show_icons=true&hide_border=true&hide_rank=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"
-    media="(prefers-color-scheme: dark)"
-    height="200"
-  />
-  <source
     srcset="https://github-readme-stats.vercel.app/api?username=CSY54&show_icons=true&hide_border=true&hide_rank=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: light)"
     height="200"
   />
   <img
@@ -26,16 +22,12 @@
     height="200"
   />
 </picture>
-
+</span>
+<span>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CSY54&layout=compact&hide_border=true&card_width=445&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"
-    media="(prefers-color-scheme: dark)"
-    height="200"
-  />
-  <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CSY54&layout=compact&hide_border=true&card_width=445&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: light)"
     height="200"
   />
   <img
@@ -43,6 +35,7 @@
     height="200"
   />
 </picture>
+</span>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C755%20hrs%2036%20mins-blue)
