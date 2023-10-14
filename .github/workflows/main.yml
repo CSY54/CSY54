@@ -8,6 +8,7 @@ on:
 jobs:
   snake:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Generate svg
         uses: Platane/snk@v3
@@ -28,6 +29,7 @@ jobs:
   update-readme:
     name: waka-waka-eh-eh
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
