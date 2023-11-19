@@ -31,7 +31,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: cdfmlr/waka-readme-stats@d6f3a51
+      - uses: cdfmlr/waka-readme-stats@d6f3a510b23bab31f01aad4214abd04ee17b7d83
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
