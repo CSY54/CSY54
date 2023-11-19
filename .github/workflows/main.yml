@@ -29,7 +29,6 @@ jobs:
   update-readme:
     name: waka-waka-eh-eh
     runs-on: ubuntu-latest
-    timeout-minutes: 15
     steps:
       - uses: anmol098/waka-readme-stats@cb537e95196c4d7b51de1bf4b638798d36eabef9
         with:
