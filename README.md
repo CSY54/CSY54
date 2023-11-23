@@ -34,7 +34,9 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C980%20hrs%204%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-100-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -65,7 +67,7 @@ Neovim                   4 hrs 23 mins       ███████████�
 ```
 
 
- Last Updated on 2023-11-23 12:02:10 UTC
+ Last Updated on 2023-11-23 13:17:43 UTC
 <!--END_SECTION:waka-->
 
 <!--
