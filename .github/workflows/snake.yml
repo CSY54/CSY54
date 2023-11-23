@@ -1,3 +1,5 @@
+name: Snake
+
 on:
   schedule:
     - cron: '0 0 * * *'

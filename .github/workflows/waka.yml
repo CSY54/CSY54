@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  waka-readme:
     name: waka-waka-eh-eh
     runs-on: ubuntu-latest
     steps:
