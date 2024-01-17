@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C028%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-442.2%20thousand%20lines%20of%20code-blue)
 
@@ -56,18 +56,14 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               39 mins             ████████████████░░░░░░░░░   64.38 % 
-JavaScript               12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Diff                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 hr 1 min          █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2024-01-16 01:25:02 UTC
+ Last Updated on 2024-01-17 01:24:54 UTC
 <!--END_SECTION:waka-->
 
 <!--
