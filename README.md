@@ -34,40 +34,14 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C160%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C161%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-463.5%20thousand%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-🌆 Daytime                503 commits         █████████████░░░░░░░░░░░░   51.07 % 
-🌃 Evening                219 commits         ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
-🌙 Night                  142 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-TypeScript               8 hrs 8 mins        █████████████████████░░░░   82.38 % 
-Solidity                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-dosini                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-
-🔥 Editors: 
-Neovim                   9 hrs 53 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 2024-05-22 01:29:50 UTC
+ Last Updated on 2024-05-23 01:29:08 UTC
 <!--END_SECTION:waka-->
 
 <!--
