@@ -34,38 +34,14 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C303%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C304%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-462.1%20thousand%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                112 commits         █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-🌆 Daytime                128 commits         ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-🌃 Evening                206 commits         █████████░░░░░░░░░░░░░░░░   35.89 % 
-🌙 Night                  128 commits         ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-YAML                     14 mins             ██████████████████░░░░░░░   70.95 % 
-sshconfig                4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-
-🔥 Editors: 
-Neovim                   20 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 2024-11-19 01:42:04 UTC
+ Last Updated on 2024-11-20 01:41:03 UTC
 <!--END_SECTION:waka-->
 
 <!--
