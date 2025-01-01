@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C348%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-473.0%20thousand%20lines%20of%20code-blue)
 
@@ -56,18 +56,14 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   1 hr 55 mins        █████████████████████░░░░   85.37 % 
-C++                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Makefile                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+JSON                     4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 15 mins       █████████████████████████   100.00 % 
+Neovim                   4 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2024-12-31 01:36:25 UTC
+ Last Updated on 2025-01-01 01:44:05 UTC
 <!--END_SECTION:waka-->
 
 <!--
