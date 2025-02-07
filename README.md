@@ -34,14 +34,40 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C398%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C399%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-473.0%20thousand%20lines%20of%20code-blue)
 
+**I'm a Night 🦉** 
 
- Last Updated on 2025-02-06 01:36:34 UTC
+```text
+🌞 Morning                112 commits         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+🌆 Daytime                130 commits         ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+🌃 Evening                212 commits         █████████░░░░░░░░░░░░░░░░   36.12 % 
+🌙 Night                  133 commits         ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Vue.js                   6 hrs 14 mins       ███████████████░░░░░░░░░░   61.32 % 
+Astro                    1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+TypeScript               1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+
+🔥 Editors: 
+Neovim                   10 hrs 9 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 2025-02-07 01:36:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
