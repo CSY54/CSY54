@@ -34,12 +34,36 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C678%20hrs%2022%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-492.8%20thousand%20lines%20of%20code-blue)
 
+**I'm a Night 🦉** 
 
- Last Updated on 2025-07-01 02:07:14 UTC
+```text
+🌞 Morning                112 commits         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+🌆 Daytime                142 commits         ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+🌃 Evening                218 commits         █████████░░░░░░░░░░░░░░░░   35.50 % 
+🌙 Night                  142 commits         ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 2025-07-02 01:56:10 UTC
 <!--END_SECTION:waka-->
 
 <!--
