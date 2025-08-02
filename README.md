@@ -34,7 +34,7 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C694%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C695%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -56,14 +56,16 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     45 mins             ██████████████████████░░░   86.44 % 
+conf                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   52 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2025-08-01 02:22:40 UTC
+ Last Updated on 2025-08-02 02:00:03 UTC
 <!--END_SECTION:waka-->
 
 <!--
