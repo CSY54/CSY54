@@ -34,12 +34,40 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C019%20hrs%204%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-531.58%20thousand%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-531.58%20thousand%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                131 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+🌆 Daytime                198 commits         ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+🌃 Evening                312 commits         ██████████░░░░░░░░░░░░░░░   38.66 % 
+🌙 Night                  166 commits         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+```
 
 
- Last Updated on 2026-01-04 02:12:25 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+TypeScript               12 hrs 27 mins      ████████████████░░░░░░░░░   65.19 % 
+YAML                     3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Python                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Go                       40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+
+🔥 Editors: 
+Neovim                   19 hrs 6 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 2026-01-06 02:02:12 UTC
 <!--END_SECTION:waka-->
 
 <!--
