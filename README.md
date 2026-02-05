@@ -34,9 +34,9 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C069%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C069%20hrs%2025%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-531.70%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -56,18 +56,18 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-YAML                     3 hrs 48 mins       ████████████░░░░░░░░░░░░░   48.19 % 
-TypeScript               1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-Docker                   51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Nginx                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+YAML                     3 hrs 37 mins       ██████████████░░░░░░░░░░░   56.88 % 
+TypeScript               1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   28.46 % 
+Nginx                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 54 mins       █████████████████████████   100.00 % 
+Neovim                   6 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026-02-04 02:28:37 UTC
+ Last Updated on 2026-02-05 02:30:35 UTC
 <!--END_SECTION:waka-->
 
 <!--
