@@ -56,18 +56,18 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   5 hrs 40 mins       █████████████░░░░░░░░░░░░   52.79 % 
-TypeScript               4 hrs 40 mins       ███████████░░░░░░░░░░░░░░   43.45 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Python                   5 hrs 40 mins       █████████████░░░░░░░░░░░░   53.52 % 
+TypeScript               4 hrs 40 mins       ███████████░░░░░░░░░░░░░░   44.05 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Lua                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-Neovim                   10 hrs 45 mins      █████████████████████████   100.00 % 
+Neovim                   10 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026-02-16 02:36:29 UTC
+ Last Updated on 2026-02-17 02:33:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
