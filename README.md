@@ -34,7 +34,7 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C099%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C102%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -43,10 +43,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                131 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-🌆 Daytime                214 commits         ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
-🌃 Evening                314 commits         █████████░░░░░░░░░░░░░░░░   37.74 % 
-🌙 Night                  173 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+🌞 Morning                131 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+🌆 Daytime                214 commits         ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
+🌃 Evening                317 commits         █████████░░░░░░░░░░░░░░░░   37.96 % 
+🌙 Night                  173 commits         █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
 ```
 
 
@@ -56,19 +56,19 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               12 hrs 28 mins      ████████████████████░░░░░   81.67 % 
-Go                       1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+TypeScript               14 hrs 29 mins      ████████████████████░░░░░   80.85 % 
+Go                       1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+YAML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🔥 Editors: 
-Neovim                   14 hrs 54 mins      ████████████████████████░   97.55 % 
-VS Code                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Neovim                   17 hrs 32 mins      ████████████████████████░   97.91 % 
+VS Code                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 ```
 
 
- Last Updated on 2026-02-23 02:37:07 UTC
+ Last Updated on 2026-02-24 02:33:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
