@@ -34,41 +34,14 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C138%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C141%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-532.93%20thousand%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                131 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-🌆 Daytime                232 commits         ███████░░░░░░░░░░░░░░░░░░   27.20 % 
-🌃 Evening                317 commits         █████████░░░░░░░░░░░░░░░░   37.16 % 
-🌙 Night                  173 commits         █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-TypeScript               5 hrs 11 mins       ███████████████████░░░░░░   77.10 % 
-JSON                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-YAML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-Prisma                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-
-🔥 Editors: 
-Neovim                   6 hrs 42 mins       █████████████████████████   99.75 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-```
-
-
- Last Updated on 2026-03-17 02:36:15 UTC
+ Last Updated on 2026-03-18 02:42:40 UTC
 <!--END_SECTION:waka-->
 
 <!--
