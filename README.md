@@ -34,7 +34,7 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C148%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C149%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
@@ -56,19 +56,19 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      5 hrs 16 mins       ████████████░░░░░░░░░░░░░   48.86 % 
-Python                   2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-TypeScript               1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-TOML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+C++                      3 hrs 18 mins       ███████████░░░░░░░░░░░░░░   44.74 % 
+Python                   2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   28.46 % 
+TypeScript               1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+TOML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+CMake                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🔥 Editors: 
-Neovim                   6 hrs 25 mins       ███████████████░░░░░░░░░░   59.45 % 
-VS Code                  4 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   40.55 % 
+Neovim                   4 hrs 32 mins       ███████████████░░░░░░░░░░   61.22 % 
+VS Code                  2 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   38.78 % 
 ```
 
 
- Last Updated on 2026-03-24 02:36:28 UTC
+ Last Updated on 2026-03-25 02:41:17 UTC
 <!--END_SECTION:waka-->
 
 <!--
