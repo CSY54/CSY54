@@ -40,8 +40,35 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-532.93%20thousand%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 2026-03-26 02:48:39 UTC
+```text
+🌞 Morning                131 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+🌆 Daytime                238 commits         ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+🌃 Evening                317 commits         █████████░░░░░░░░░░░░░░░░   36.90 % 
+🌙 Night                  173 commits         █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Python                   2 hrs 6 mins        ████████████░░░░░░░░░░░░░   46.06 % 
+TypeScript               57 mins             █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+C++                      41 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+TOML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+CMake                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+
+🔥 Editors: 
+Neovim                   3 hrs 52 mins       █████████████████████░░░░   84.89 % 
+VS Code                  41 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+```
+
+
+ Last Updated on 2026-03-27 02:51:10 UTC
 <!--END_SECTION:waka-->
 
 <!--
