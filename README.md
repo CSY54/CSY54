@@ -56,19 +56,18 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   2 hrs 6 mins        ████████████░░░░░░░░░░░░░   46.06 % 
-TypeScript               57 mins             █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-C++                      41 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-TOML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-CMake                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Python                   2 hrs 6 mins        ██████████████░░░░░░░░░░░   57.09 % 
+TypeScript               54 mins             ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
+TOML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Makefile                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 52 mins       █████████████████████░░░░   84.89 % 
-VS Code                  41 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Neovim                   3 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026-03-27 02:51:10 UTC
+ Last Updated on 2026-03-28 02:40:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
