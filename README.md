@@ -34,7 +34,7 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C177%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C177%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
@@ -56,17 +56,17 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    12 mins             ███████████████░░░░░░░░░░   59.42 % 
-Diff                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-C                        3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Other                    12 mins             ██████████████░░░░░░░░░░░   56.77 % 
+Diff                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+C                        3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Bash                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
 
 🔥 Editors: 
-Neovim                   21 mins             █████████████████████████   100.00 % 
+Neovim                   22 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026-04-15 02:59:04 UTC
+ Last Updated on 2026-04-16 03:25:02 UTC
 <!--END_SECTION:waka-->
 
 <!--
