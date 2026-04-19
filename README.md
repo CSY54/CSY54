@@ -40,8 +40,34 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-532.93%20thousand%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 2026-04-18 02:52:31 UTC
+```text
+🌞 Morning                131 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+🌆 Daytime                238 commits         ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+🌃 Evening                317 commits         █████████░░░░░░░░░░░░░░░░   36.90 % 
+🌙 Night                  173 commits         █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+TypeScript               1 hr 35 mins        █████████████████░░░░░░░░   66.50 % 
+Text                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+
+🔥 Editors: 
+Neovim                   2 hrs 24 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 2026-04-19 03:25:59 UTC
 <!--END_SECTION:waka-->
 
 <!--
