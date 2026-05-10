@@ -56,19 +56,19 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               5 hrs 2 mins        ████████████████░░░░░░░░░   63.99 % 
-Vue                      2 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   26.54 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-Lua                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+TypeScript               5 hrs 2 mins        ████████████████░░░░░░░░░   65.37 % 
+Vue                      2 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   27.11 % 
+YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Lua                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🔥 Editors: 
-Neovim                   5 hrs 1 min         ████████████████░░░░░░░░░   63.66 % 
-Unknown Editor           2 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   36.34 % 
+Neovim                   5 hrs               ████████████████░░░░░░░░░   64.97 % 
+Unknown Editor           2 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   35.03 % 
 ```
 
 
- Last Updated on 2026-05-09 03:33:49 UTC
+ Last Updated on 2026-05-10 03:46:14 UTC
 <!--END_SECTION:waka-->
 
 <!--
