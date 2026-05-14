@@ -34,7 +34,7 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C202%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C202%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -56,14 +56,19 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               4 hrs 10 mins       █████████████████████████   100.00 % 
+TypeScript               4 hrs 5 mins        ███████████████████████░░   92.10 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+C++                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Makefile                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 10 mins       █████████████████████████   100.00 % 
+Neovim                   4 hrs 16 mins       ████████████████████████░   96.18 % 
+Unknown Editor           10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 ```
 
 
- Last Updated on 2026-05-13 03:52:19 UTC
+ Last Updated on 2026-05-14 03:51:12 UTC
 <!--END_SECTION:waka-->
 
 <!--
