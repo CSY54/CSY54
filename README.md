@@ -34,9 +34,9 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C277%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C282%20hrs%205%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-539.79%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -56,19 +56,19 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   11 hrs 1 min        ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
-YAML                     8 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Markdown                 6 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Jinja2                   5 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Lua                      4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Python                   14 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   30.09 % 
+YAML                     8 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Markdown                 6 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Jinja2                   5 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Bash                     2 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 
 🔥 Editors: 
-Claude Code              27 hrs 10 mins      ███████████████░░░░░░░░░░   59.67 % 
-Neovim                   18 hrs 22 mins      ██████████░░░░░░░░░░░░░░░   40.33 % 
+Claude Code              30 hrs 44 mins      ████████████████░░░░░░░░░   65.66 % 
+Neovim                   16 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   34.34 % 
 ```
 
 
- Last Updated on 2026-06-03 04:45:35 UTC
+ Last Updated on 2026-06-04 04:31:07 UTC
 <!--END_SECTION:waka-->
 
 <!--
