@@ -43,10 +43,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                140 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-🌆 Daytime                241 commits         ███████░░░░░░░░░░░░░░░░░░   26.96 % 
-🌃 Evening                331 commits         █████████░░░░░░░░░░░░░░░░   37.02 % 
-🌙 Night                  182 commits         █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+🌞 Morning                140 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+🌆 Daytime                241 commits         ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+🌃 Evening                338 commits         █████████░░░░░░░░░░░░░░░░   37.51 % 
+🌙 Night                  182 commits         █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
 ```
 
 
@@ -56,19 +56,19 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   11 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   28.10 % 
-YAML                     8 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-Markdown                 5 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Bash                     4 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Jinja2                   3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Python                   10 hrs 37 mins      ████████░░░░░░░░░░░░░░░░░   30.09 % 
+YAML                     7 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+Markdown                 5 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Bash                     3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Jinja2                   3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
 
 🔥 Editors: 
-Claude Code              25 hrs 56 mins      ████████████████░░░░░░░░░   66.00 % 
-Neovim                   13 hrs 21 mins      ████████░░░░░░░░░░░░░░░░░   34.00 % 
+Claude Code              22 hrs 58 mins      ████████████████░░░░░░░░░   65.09 % 
+Neovim                   12 hrs 19 mins      █████████░░░░░░░░░░░░░░░░   34.91 % 
 ```
 
 
- Last Updated on 2026-06-08 04:28:38 UTC
+ Last Updated on 2026-06-09 03:59:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
