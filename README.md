@@ -56,19 +56,19 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-YAML                     3 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-TypeScript               2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Bash                     1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Markdown                 1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-zsh                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+TypeScript               2 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+YAML                     1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
+Markdown                 1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+zsh                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Lua                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
 
 🔥 Editors: 
-Neovim                   6 hrs 42 mins       ██████████████░░░░░░░░░░░   54.81 % 
-Claude Code              5 hrs 31 mins       ███████████░░░░░░░░░░░░░░   45.19 % 
+Neovim                   4 hrs 31 mins       █████████████░░░░░░░░░░░░   53.03 % 
+Claude Code              4 hrs               ████████████░░░░░░░░░░░░░   46.97 % 
 ```
 
 
- Last Updated on 2026-06-14 04:33:31 UTC
+ Last Updated on 2026-06-15 04:57:38 UTC
 <!--END_SECTION:waka-->
 
 <!--
