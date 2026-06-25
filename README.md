@@ -34,19 +34,19 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C322%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C322%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-553.46%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-554.73%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                139 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-🌆 Daytime                241 commits         ███████░░░░░░░░░░░░░░░░░░   26.78 % 
-🌃 Evening                338 commits         █████████░░░░░░░░░░░░░░░░   37.56 % 
-🌙 Night                  182 commits         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+🌞 Morning                139 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+🌆 Daytime                241 commits         ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+🌃 Evening                339 commits         █████████░░░░░░░░░░░░░░░░   37.62 % 
+🌙 Night                  182 commits         █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
 ```
 
 
@@ -56,19 +56,19 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-tmux                     9 hrs               ███████████████████░░░░░░   74.04 % 
-TypeScript               54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-C                        52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-conf                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+tmux                     9 hrs               ██████████████████░░░░░░░   71.65 % 
+TypeScript               1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+C                        52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Swift                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🔥 Editors: 
-Neovim                   11 hrs 50 mins      ████████████████████████░   97.30 % 
-Claude Code              19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Neovim                   12 hrs 14 mins      ████████████████████████░   97.25 % 
+Claude Code              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 ```
 
 
- Last Updated on 2026-06-24 04:03:52 UTC
+ Last Updated on 2026-06-25 04:03:43 UTC
 <!--END_SECTION:waka-->
 
 <!--
