@@ -34,7 +34,7 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C326%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C331%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
@@ -56,19 +56,19 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-tmux                     7 hrs 26 mins       ██████████████░░░░░░░░░░░   57.86 % 
-TypeScript               4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.34 % 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Lua                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-C                        7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+TypeScript               7 hrs 59 mins       ███████████████░░░░░░░░░░   59.78 % 
+tmux                     3 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+Markdown                 1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Lua                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🔥 Editors: 
-Neovim                   11 hrs 36 mins      ███████████████████████░░   91.49 % 
-Claude Code              1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Neovim                   9 hrs 13 mins       █████████████████░░░░░░░░   69.95 % 
+Claude Code              3 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   30.05 % 
 ```
 
 
- Last Updated on 2026-06-27 03:56:52 UTC
+ Last Updated on 2026-06-28 04:19:12 UTC
 <!--END_SECTION:waka-->
 
 <!--
