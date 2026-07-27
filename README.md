@@ -36,17 +36,17 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C393%20hrs%2026%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-557.51%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-558.03%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                133 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-🌆 Daytime                195 commits         █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-🌃 Evening                431 commits         ████████████░░░░░░░░░░░░░   47.00 % 
-🌙 Night                  158 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+🌞 Morning                125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+🌆 Daytime                186 commits         █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+🌃 Evening                459 commits         ████████████░░░░░░░░░░░░░   49.95 % 
+🌙 Night                  149 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
 ```
 
 
@@ -56,19 +56,19 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               5 hrs 33 mins       ████████████████████░░░░░   81.89 % 
-Markdown                 36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-tmux                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+TypeScript               2 hrs 2 mins        ███████████████████░░░░░░   75.92 % 
+Markdown                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 7 mins        ███████████████░░░░░░░░░░   60.85 % 
-Claude Code              2 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   39.15 % 
+Neovim                   1 hr 58 mins        ██████████████████░░░░░░░   73.51 % 
+Claude Code              42 mins             ███████░░░░░░░░░░░░░░░░░░   26.49 % 
 ```
 
 
- Last Updated on 2026-07-26 03:28:17 UTC
+ Last Updated on 2026-07-27 03:38:49 UTC
 <!--END_SECTION:waka-->
 
 <!--
