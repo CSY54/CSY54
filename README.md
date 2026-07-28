@@ -34,7 +34,9 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C393%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C332%20hrs%202%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-99%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
@@ -56,19 +58,41 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               2 hrs 2 mins        ███████████████████░░░░░░   75.92 % 
-Markdown                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+TypeScript               36 mins             ██████████░░░░░░░░░░░░░░░   40.07 % 
+Markdown                 24 mins             ███████░░░░░░░░░░░░░░░░░░   27.10 % 
+YAML                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+JSON                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🔥 Editors: 
-Neovim                   1 hr 58 mins        ██████████████████░░░░░░░   73.51 % 
-Claude Code              42 mins             ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+Neovim                   1 hr 29 mins        ████████████████████████░   97.29 % 
+Claude Code              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 5 mins (6.24%)
+
+✍️ 0 lines written by AI, 133 lines written by hand (0.0% AI-written)
+
+🔤 356,060 Input Tokens, 1,128 Output Tokens
+
+💵 $3.84 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 4 AI Prompts
+
+Claude                   30 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 842 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026-07-27 03:38:49 UTC
+ Last Updated on 2026-07-28 02:55:15 UTC
 <!--END_SECTION:waka-->
 
 <!--
