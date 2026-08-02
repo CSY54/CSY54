@@ -34,16 +34,65 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C341%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C343%20hrs%2047%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%2014%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-558.03%20thousand%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 2026-08-01 03:27:57 UTC
+```text
+🌞 Morning                125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+🌆 Daytime                186 commits         █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+🌃 Evening                459 commits         ████████████░░░░░░░░░░░░░   49.95 % 
+🌙 Night                  149 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+TypeScript               6 hrs 3 mins        █████████████░░░░░░░░░░░░   50.13 % 
+Java                     1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+JSON                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Vue                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+
+🔥 Editors: 
+Neovim                   10 hrs 44 mins      ██████████████████████░░░   88.81 % 
+Claude Code              1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 35 mins (13.2%)
+
+✍️ 270 lines written by AI, 2,184 lines written by hand (11.0% AI-written)
+
+🔤 15,712,284 Input Tokens, 117,689 Output Tokens
+
+💵 $48.90 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 33 AI Prompts
+
+Claude                   394 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 11.0% of written lines came from AI
+📄 Detailed Prompter — average 543 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🔍 Hands-On Reviewer — 90.14% of changed lines were hand-edited
+```
+
+
+ Last Updated on 2026-08-02 03:27:52 UTC
 <!--END_SECTION:waka-->
 
 <!--
