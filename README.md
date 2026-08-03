@@ -34,7 +34,7 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C343%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C344%20hrs%2034%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%2014%20mins-blue?style=flat)
 
@@ -58,23 +58,23 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               6 hrs 3 mins        █████████████░░░░░░░░░░░░   50.13 % 
-Java                     1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-JSON                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-Vue                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+TypeScript               6 hrs 4 mins        ████████████░░░░░░░░░░░░░   47.19 % 
+Java                     1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Vue                      1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+JSON                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 
 🔥 Editors: 
-Neovim                   10 hrs 44 mins      ██████████████████████░░░   88.81 % 
-Claude Code              1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Neovim                   11 hrs 30 mins      ██████████████████████░░░   89.48 % 
+Claude Code              1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 35 mins (13.2%)
+⏱ AI Coding Time: 1 hr 35 mins (12.41%)
 
-✍️ 270 lines written by AI, 2,184 lines written by hand (11.0% AI-written)
+✍️ 270 lines written by AI, 2,443 lines written by hand (9.95% AI-written)
 
 🔤 15,712,284 Input Tokens, 117,689 Output Tokens
 
@@ -85,14 +85,14 @@ Claude Code              1 hr 21 mins        ███░░░░░░░░�
 Claude                   394 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 11.0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 9.95% of written lines came from AI
 📄 Detailed Prompter — average 543 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
-🔍 Hands-On Reviewer — 90.14% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 91.02% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026-08-02 03:27:52 UTC
+ Last Updated on 2026-08-03 03:29:49 UTC
 <!--END_SECTION:waka-->
 
 <!--
