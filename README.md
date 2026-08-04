@@ -34,11 +34,11 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C344%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C345%20hrs-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%2014%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-558.03%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -58,23 +58,23 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               6 hrs 4 mins        ████████████░░░░░░░░░░░░░   47.19 % 
-Java                     1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Vue                      1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-JSON                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+TypeScript               6 hrs 4 mins        ████████████░░░░░░░░░░░░░   46.71 % 
+Java                     1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Vue                      1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+JSON                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 🔥 Editors: 
-Neovim                   11 hrs 30 mins      ██████████████████████░░░   89.48 % 
-Claude Code              1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Neovim                   11 hrs 38 mins      ██████████████████████░░░   89.58 % 
+Claude Code              1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 35 mins (12.41%)
+⏱ AI Coding Time: 1 hr 35 mins (12.28%)
 
-✍️ 270 lines written by AI, 2,443 lines written by hand (9.95% AI-written)
+✍️ 270 lines written by AI, 2,406 lines written by hand (10.09% AI-written)
 
 🔤 15,712,284 Input Tokens, 117,689 Output Tokens
 
@@ -85,14 +85,14 @@ Claude Code              1 hr 21 mins        ███░░░░░░░░�
 Claude                   394 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 9.95% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 10.09% of written lines came from AI
 📄 Detailed Prompter — average 543 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
-🔍 Hands-On Reviewer — 91.02% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 91.39% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026-08-03 03:29:49 UTC
+ Last Updated on 2026-08-04 02:58:16 UTC
 <!--END_SECTION:waka-->
 
 <!--
