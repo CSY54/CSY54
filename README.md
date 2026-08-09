@@ -58,14 +58,14 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               1 hr 43 mins        ███████████░░░░░░░░░░░░░░   43.86 % 
-Vue                      1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   35.99 % 
-JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-TOML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Vue                      39 mins             █████████████░░░░░░░░░░░░   53.81 % 
+TOML                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Bash                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+zsh                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 55 mins       █████████████████████████   100.00 % 
+Neovim                   1 hr 13 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -75,7 +75,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 2026-08-08 01:58:59 UTC
+ Last Updated on 2026-08-09 02:08:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
