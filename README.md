@@ -38,44 +38,12 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%2014%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-558.03%20thousand%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-🌆 Daytime                186 commits         █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-🌃 Evening                459 commits         ████████████░░░░░░░░░░░░░   49.95 % 
-🌙 Night                  149 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-558.21%20thousand%20lines%20of%20code-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Vue                      39 mins             █████████████░░░░░░░░░░░░   53.81 % 
-TOML                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Bash                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-zsh                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-
-🔥 Editors: 
-Neovim                   1 hr 13 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 2026-08-09 02:08:13 UTC
+ Last Updated on 2026-08-10 02:11:52 UTC
 <!--END_SECTION:waka-->
 
 <!--
