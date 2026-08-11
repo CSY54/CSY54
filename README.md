@@ -34,7 +34,7 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C345%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C345%20hrs%2014%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%2014%20mins-blue?style=flat)
 
@@ -42,8 +42,39 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-558.21%20thousand%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 2026-08-10 02:11:52 UTC
+```text
+🌞 Morning                131 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+🌆 Daytime                187 commits         █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+🌃 Evening                459 commits         ████████████░░░░░░░░░░░░░   49.57 % 
+🌙 Night                  149 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+sshconfig                9 mins              ██████████████████░░░░░░░   73.36 % 
+TypeScript               3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+
+🔥 Editors: 
+Neovim                   13 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 2026-08-11 02:07:05 UTC
 <!--END_SECTION:waka-->
 
 <!--
