@@ -34,7 +34,7 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C346%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C347%20hrs%201%20min-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%2014%20mins-blue?style=flat)
 
@@ -58,12 +58,12 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Mason                    19 mins             ██████████░░░░░░░░░░░░░░░   41.82 % 
-XML                      15 mins             █████████░░░░░░░░░░░░░░░░   34.34 % 
-Markdown                 10 mins             ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
+TypeScript               23 mins             █████████████░░░░░░░░░░░░   50.04 % 
+JSON                     15 mins             ████████░░░░░░░░░░░░░░░░░   32.29 % 
+Vue                      8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
 
 🔥 Editors: 
-Neovim                   45 mins             █████████████████████████   100.00 % 
+Neovim                   46 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -73,7 +73,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 2026-08-27 08:31:07 UTC
+ Last Updated on 2026-08-28 10:32:25 UTC
 <!--END_SECTION:waka-->
 
 <!--
