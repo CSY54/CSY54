@@ -34,11 +34,11 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C347%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C347%20hrs%2044%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%2014%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-558.21%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -58,10 +58,14 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 15 mins             █████████░░░░░░░░░░░░░░░░   36.64 % 
+Makefile                 15 mins             █████████░░░░░░░░░░░░░░░░   35.85 % 
+JSON                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Swift                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   42 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -71,7 +75,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 2026-09-05 03:50:17 UTC
+ Last Updated on 2026-09-06 03:54:08 UTC
 <!--END_SECTION:waka-->
 
 <!--
