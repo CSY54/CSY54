@@ -58,14 +58,13 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 16 mins             █████████░░░░░░░░░░░░░░░░   36.55 % 
-Makefile                 15 mins             █████████░░░░░░░░░░░░░░░░   34.02 % 
-JSON                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Swift                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Other                    1 min               █████████████░░░░░░░░░░░░   51.82 % 
+Markdown                 0 secs              █████████░░░░░░░░░░░░░░░░   35.04 % 
+TOML                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🔥 Editors: 
-Neovim                   44 mins             █████████████████████████   100.00 % 
+Neovim                   2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -75,7 +74,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 2026-09-12 04:01:03 UTC
+ Last Updated on 2026-09-13 04:10:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
