@@ -34,11 +34,11 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C347%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C348%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%2014%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-577.45%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -58,14 +58,14 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 5 mins              ████████████████████░░░░░   80.93 % 
-TOML                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Other                    16 mins             ████████████░░░░░░░░░░░░░   46.05 % 
+Python                   11 mins             ████████░░░░░░░░░░░░░░░░░   32.09 % 
+Markdown                 5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+TOML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🔥 Editors: 
-Neovim                   6 mins              █████████████████████████   100.00 % 
+Neovim                   35 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -75,7 +75,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 2026-09-16 04:14:57 UTC
+ Last Updated on 2026-09-17 04:21:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
