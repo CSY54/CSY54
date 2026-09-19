@@ -34,16 +34,65 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C348%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C349%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-577.56%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-577.58%20thousand%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+🌆 Daytime                201 commits         █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+🌃 Evening                535 commits         █████████████░░░░░░░░░░░░   52.55 % 
+🌙 Night                  151 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+```
 
 
- Last Updated on 2026-09-18 04:08:34 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Vue                      41 mins             ███████████░░░░░░░░░░░░░░   45.13 % 
+Other                    16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Python                   15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Markdown                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+
+🔥 Editors: 
+Neovim                   1 hr 11 mins        ████████████████████░░░░░   78.08 % 
+Claude Code              20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 20 mins (22.39%)
+
+✍️ 0 lines written by AI, 53 lines written by hand (0.0% AI-written)
+
+🔤 576,363 Input Tokens, 4,447 Output Tokens
+
+💵 $5.99 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 10 AI Prompts
+
+Claude                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 140 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 2026-09-19 04:04:49 UTC
 <!--END_SECTION:waka-->
 
 <!--
