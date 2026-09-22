@@ -34,65 +34,6 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C350%20hrs%2020%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2028%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-645.75%20thousand%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-🌆 Daytime                199 commits         █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-🌃 Evening                538 commits         █████████████░░░░░░░░░░░░   52.75 % 
-🌙 Night                  152 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Python                   1 hr                █████████░░░░░░░░░░░░░░░░   35.11 % 
-Vue                      41 mins             ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-Markdown                 31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-
-🔥 Editors: 
-Neovim                   1 hr 43 mins        ███████████████░░░░░░░░░░   60.53 % 
-Claude Code              1 hr 7 mins         ██████████░░░░░░░░░░░░░░░   39.47 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 13 mins (42.96%)
-
-✍️ 367 lines written by AI, 274 lines written by hand (57.25% AI-written)
-
-🔤 11,569,822 Input Tokens, 75,300 Output Tokens
-
-💵 $119.46 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 28 AI Prompts
-
-Claude                   371 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 57.25% of written lines came from AI
-📝 Concise Prompter — average 416 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 43.96% of changed lines were hand-edited
-```
-
-
- Last Updated on 2026-09-22 04:17:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
