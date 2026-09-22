@@ -34,21 +34,21 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C349%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C350%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-645.76%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-645.75%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-🌆 Daytime                201 commits         █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-🌃 Evening                540 commits         █████████████░░░░░░░░░░░░   52.73 % 
-🌙 Night                  152 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+🌞 Morning                131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+🌆 Daytime                199 commits         █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+🌃 Evening                538 commits         █████████████░░░░░░░░░░░░   52.75 % 
+🌙 Night                  152 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
 ```
 
 
@@ -58,41 +58,41 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Vue                      41 mins             ███████████░░░░░░░░░░░░░░   45.13 % 
-Other                    16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Python                   15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Markdown                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Python                   1 hr                █████████░░░░░░░░░░░░░░░░   35.11 % 
+Vue                      41 mins             ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+Markdown                 31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
 
 🔥 Editors: 
-Neovim                   1 hr 11 mins        ████████████████████░░░░░   78.08 % 
-Claude Code              20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+Neovim                   1 hr 43 mins        ███████████████░░░░░░░░░░   60.53 % 
+Claude Code              1 hr 7 mins         ██████████░░░░░░░░░░░░░░░   39.47 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (22.39%)
+⏱ AI Coding Time: 1 hr 13 mins (42.96%)
 
-✍️ 0 lines written by AI, 53 lines written by hand (0.0% AI-written)
+✍️ 367 lines written by AI, 274 lines written by hand (57.25% AI-written)
 
-🔤 576,363 Input Tokens, 4,447 Output Tokens
+🔤 11,569,822 Input Tokens, 75,300 Output Tokens
 
-💵 $5.99 Estimated AI Cost This Week
+💵 $119.46 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 10 AI Prompts
+🧠 3 AI Sessions, 28 AI Prompts
 
-Claude                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude                   371 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 140 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+⚖️ Balanced with AI — 57.25% of written lines came from AI
+📝 Concise Prompter — average 416 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 43.96% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026-09-21 04:18:38 UTC
+ Last Updated on 2026-09-22 04:17:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
