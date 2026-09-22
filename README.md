@@ -34,6 +34,63 @@
 </picture>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C353%20hrs%2018%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-645.82%20thousand%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+🌆 Daytime                208 commits         █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+🌃 Evening                539 commits         █████████████░░░░░░░░░░░░   52.28 % 
+🌙 Night                  152 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Python                   1 hr 59 mins        █████████░░░░░░░░░░░░░░░░   34.97 % 
+Markdown                 1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+Vue                      47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+TOML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+
+🔥 Editors: 
+Neovim                   2 hrs 51 mins       █████████████░░░░░░░░░░░░   50.15 % 
+Claude Code              2 hrs 50 mins       ████████████░░░░░░░░░░░░░   49.85 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 13 mins (56.51%)
+
+✍️ 1,389 lines written by AI, 599 lines written by hand (69.87% AI-written)
+
+🔤 114,281,207 Input Tokens, 219,847 Output Tokens
+
+💵 $1153.80 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 57 AI Prompts
+
+Claude                   1,415 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 69.87% of written lines came from AI
+📝 Concise Prompter — average 344 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 30.5% of changed lines were hand-edited
+```
+
+
+ Last Updated on 2026-09-22 09:13:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
