@@ -38,37 +38,10 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-77-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-645.87%20thousand%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-🌆 Daytime                210 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-🌃 Evening                541 commits         █████████████░░░░░░░░░░░░   52.27 % 
-🌙 Night                  152 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-645.88%20thousand%20lines%20of%20code-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Python                   1 hr 44 mins        ████████░░░░░░░░░░░░░░░░░   33.63 % 
-Markdown                 1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-Vue                      47 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-TOML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-
-🔥 Editors: 
-Claude Code              2 hrs 50 mins       ██████████████░░░░░░░░░░░   55.10 % 
-Neovim                   2 hrs 19 mins       ███████████░░░░░░░░░░░░░░   44.90 % 
-```
-
-
- Last Updated on 2026-09-25 04:23:50 UTC
+ Last Updated on 2026-09-26 04:27:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
