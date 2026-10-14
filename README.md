@@ -38,15 +38,15 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-646.00%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-646.01%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-🌆 Daytime                210 commits         █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-🌃 Evening                581 commits         ██████████████░░░░░░░░░░░   54.05 % 
-🌙 Night                  152 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+🌞 Morning                132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+🌆 Daytime                210 commits         █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+🌃 Evening                585 commits         ██████████████░░░░░░░░░░░   54.22 % 
+🌙 Night                  152 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
 ```
 
 
@@ -56,19 +56,18 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   2 hrs 23 mins       ████████████░░░░░░░░░░░░░   48.82 % 
-Markdown                 1 hr 45 mins        █████████░░░░░░░░░░░░░░░░   35.85 % 
-Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Ruby                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Markdown                 33 mins             ████████████░░░░░░░░░░░░░   48.89 % 
+Python                   28 mins             ██████████░░░░░░░░░░░░░░░   41.21 % 
+Java                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 1 min         ███████████████░░░░░░░░░░   61.86 % 
-Neovim                   1 hr 52 mins        ██████████░░░░░░░░░░░░░░░   38.14 % 
+Neovim                   1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026-10-13 06:23:14 UTC
+ Last Updated on 2026-10-14 04:26:00 UTC
 <!--END_SECTION:waka-->
 
 <!--
