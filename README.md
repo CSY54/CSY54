@@ -38,15 +38,15 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-646.06%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-646.00%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-🌆 Daytime                210 commits         █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-🌃 Evening                594 commits         ██████████████░░░░░░░░░░░   54.60 % 
-🌙 Night                  152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+🌞 Morning                132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+🌆 Daytime                210 commits         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+🌃 Evening                580 commits         ██████████████░░░░░░░░░░░   54.00 % 
+🌙 Night                  152 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
 ```
 
 
@@ -56,18 +56,18 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 33 mins             ████████████░░░░░░░░░░░░░   48.89 % 
-Python                   28 mins             ██████████░░░░░░░░░░░░░░░   41.21 % 
-Java                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Markdown                 14 mins             █████████████░░░░░░░░░░░░   53.77 % 
+Python                   5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+Java                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🔥 Editors: 
-Neovim                   1 hr 9 mins         █████████████████████████   100.00 % 
+Neovim                   27 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026-10-15 04:07:37 UTC
+ Last Updated on 2026-10-16 04:06:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
