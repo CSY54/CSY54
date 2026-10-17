@@ -38,15 +38,15 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-646.00%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-646.10%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-🌆 Daytime                210 commits         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-🌃 Evening                580 commits         ██████████████░░░░░░░░░░░   54.00 % 
-🌙 Night                  152 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+🌞 Morning                132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+🌆 Daytime                211 commits         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+🌃 Evening                592 commits         ██████████████░░░░░░░░░░░   54.46 % 
+🌙 Night                  152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
 ```
 
 
@@ -56,18 +56,14 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 14 mins             █████████████░░░░░░░░░░░░   53.77 % 
-Python                   5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-Java                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2026-10-16 04:06:47 UTC
+ Last Updated on 2026-10-17 03:54:08 UTC
 <!--END_SECTION:waka-->
 
 <!--
