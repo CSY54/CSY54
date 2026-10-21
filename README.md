@@ -34,19 +34,19 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C360%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C366%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-646.15%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-646.14%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-🌆 Daytime                211 commits         █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-🌃 Evening                604 commits         ██████████████░░░░░░░░░░░   54.96 % 
-🌙 Night                  152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+🌞 Morning                132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+🌆 Daytime                211 commits         █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+🌃 Evening                602 commits         ██████████████░░░░░░░░░░░   54.88 % 
+🌙 Night                  152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
 ```
 
 
@@ -56,14 +56,19 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-sshconfig                0 secs              █████████████████████████   100.00 % 
+Python                   3 hrs 48 mins       ██████████████░░░░░░░░░░░   57.08 % 
+Markdown                 1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Other                    53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Bash                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+TOML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 
 🔥 Editors: 
-Neovim                   0 secs              █████████████████████████   100.00 % 
+Neovim                   5 hrs 50 mins       ██████████████████████░░░   87.47 % 
+Claude Code              50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
 ```
 
 
- Last Updated on 2026-10-20 04:22:11 UTC
+ Last Updated on 2026-10-21 04:11:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
